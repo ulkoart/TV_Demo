@@ -26,6 +26,10 @@ extension RecipeCategory {
         RecipeCategory(title: "Супы", recipes: [
             Recipe(photo: nil, title:"Суп Харчо", ingresients:"курица, рис, чеснок, курица, рис, чеснок, курица, рис, чеснок, курица, рис, чеснок"),
             Recipe(photo: nil, title:"Суп Харчо2", ingresients:"курица, рис, чеснок")
+            ]),
+        RecipeCategory(title: "Супы", recipes: [
+            Recipe(photo: nil, title:"Суп Харчо", ingresients:"курица, рис, чеснок, курица, рис, чеснок, курица, рис, чеснок, курица, рис, чеснок"),
+            Recipe(photo: nil, title:"Суп Харчо2", ingresients:"курица, рис, чеснок")
             ])
         ]
     }
